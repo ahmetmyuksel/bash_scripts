@@ -4,6 +4,9 @@ This repository contains or will contain a lot of bash scripts examples. These a
 
 # Usage
 git clone git@github.com:ahmetyuksel/bash_scripts.git
+
 cd bash_scripts
+
 chmod +x FILENAME
+
 ./FILENAME
