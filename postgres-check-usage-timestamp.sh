@@ -1,3 +1,6 @@
+#!/bin/bash
+#It checks the values whose status is different than 20 and created in last 20 minutes in a table in a database running on 10.10.10.10 server.
+
 hostname=$(postgres_host)
 port=$(postgres_port)
 user=$(postgres_user)
